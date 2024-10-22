@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavidiuk
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning IA
 - 💞️ I’m looking to collaborate on big project
-- 📫 How to reach me kaviduwarnakulasuriya@gmail.com
+- 📫 How to reach me kavidubusiness@gmail.com
 - 😄 Pronouns: Kavi
